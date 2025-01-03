@@ -1,3 +1,6 @@
+// int x and int y for player's x and y coordinates
+// char **map should not be an array of literal strings or it will produce a segmentation fault
+// int *wh an array where wh[0] is width and wh[1] is height of the map
 int	find(int x, int y, char **map, int *wh)
 {
 	map[y][x] = 'X';
