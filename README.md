@@ -11,6 +11,4 @@
 "1000000000000000000E1"<br>
 "111111111111111111111"<br><br>
 
-### the map should be :
-* surrounded by walls
-* allocated
+### the map should be surrounded by walls
