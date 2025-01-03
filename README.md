@@ -1,2 +1,11 @@
 # Valid path checker
-## A function that checks if there is a valid path to a charcter in a 2d array.(see example.c)
+## A function that checks if there is a valid path to a charcter in a 2d array.
+
+### example of a valid map:
+"111111111111111111111"
+"100000000000000000001"
+"111011001111100000111"
+"111111000111100011111"
+"111111100111111111111"
+"1000000000000000000E1"
+"111111111111111111111"
