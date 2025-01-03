@@ -4,6 +4,7 @@
 // int *wh an array where wh[0] is width and wh[1] is height of the map.
 // char exit is the character that your are searching for.
 // '0' is considered floor and '1' wall.
+// !! borders are necessary !!
 int	find(int x, int y, char **map, int wh[], char exit)
 {
 	if (y - 1 < 0 || x - 1 < 0 || x + 1 >= wh[0] || y + 1 >= wh[1])
