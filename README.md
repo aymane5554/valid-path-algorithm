@@ -9,4 +9,4 @@
 "111111100111111111111"<br>
 "1000000000000000000E1"<br>
 "111111111111111111111"<br><br>
-**the map should be surrounded with walls(1s)**
+**the map should be surrounded with walls**
